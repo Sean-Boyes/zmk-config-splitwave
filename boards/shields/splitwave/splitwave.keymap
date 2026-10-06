@@ -44,7 +44,7 @@
                         bindings = <
                 &kp F1    &kp F2    &kp F3     &kp F4     &kp F5     &kp F6    &kp F7     &kp F8    &kp F9      &kp F10
                 &kp F11   &kp F12   &kp MINUS  &kp PLUS   &kp ESC    &kp DQT   &kp PG_UP  &kp UP    &kp PG_DN   &kp PIPE
-                &kp HOME  &kp end   &kp UNDER  &kp EQUAL  &kp TILDE  &kp SQT   &kp LEFT   &kp DOWN  &kp RIGHT   &kp BSLH
+                &kp HOME  &kp END   &kp UNDER  &kp EQUAL  &kp TILDE  &kp SQT   &kp LEFT   &kp DOWN  &kp RIGHT   &kp BSLH
                 &kp GRAVE &kp LPAR  &kp LBRC   &kp LBKT   &kp LT     &kp GT    &kp RBRC   &kp RBKT  &kp RPAR    &kp SLASH
                         &kp LSHFT &kp LCTRL &kp SPACE &kp TAB &kp ENTER &kp DEL &kp LALT &kp LGUI
                         >;
